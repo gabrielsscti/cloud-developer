@@ -1,5 +1,3 @@
-Repository of exercises made on Udacity Cloud Developer's Nanodegree
-
 # ND9990 cloud-developer
 Content for Udacity's cloud developer nanodegree's following two courses:
 * Course 02 - Full Stack Apps on AWS
